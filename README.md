@@ -1,4 +1,6 @@
-##Samuel Verissimo Lima
+# Samuel Verissimo Lima
+
+**`I live around a code`**
 
 Me chamo Samuel, e sou apaixonado por tecnologia, com foco especial em Java, HTML, CSS, JavaScript e programação em geral. Minha principal skill é Java, e possuo um rápido raciocínio para resolução de problemas. Atualmente, estou estudando banco de dados e boas práticas de desenvolvimento em Java, sempre buscando evoluir e criar projetos que façam a diferença.
 
